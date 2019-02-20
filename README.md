@@ -1,2 +1,2 @@
 # playingWithReact
-Just goofing around. 
+Created a mock profolio site using React.
